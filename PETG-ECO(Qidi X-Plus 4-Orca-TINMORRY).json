@@ -1,0 +1,37 @@
+{
+    "dont_slow_down_outer_wall": [
+        "0"
+    ],
+    "fan_max_speed": [
+        "90"
+    ],
+    "fan_min_speed": [
+        "40"
+    ],
+    "filament_retraction_length": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "PETG-ECO(Qidi X-Plus 4-Orca-TINMORRY)"
+    ],
+    "filament_z_hop": [
+        "0.4"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "inherits": "Qidi Generic PETG @Qidi X-Plus 4 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "PETG-ECO(Qidi X-Plus 4-Orca-TINMORRY)",
+    "nozzle_temperature_initial_layer": [
+        "245"
+    ],
+    "nozzle_temperature_range_low": [
+        "240"
+    ],
+    "pressure_advance": [
+        "0.04"
+    ],
+    "version": "2.2.0.4"
+}
