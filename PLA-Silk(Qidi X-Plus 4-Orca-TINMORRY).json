@@ -1,0 +1,46 @@
+{
+    "enable_pressure_advance": [
+        "0"
+    ],
+    "fan_cooling_layer_time": [
+        "80"
+    ],
+    "filament_flow_ratio": [
+        "0.95"
+    ],
+    "filament_max_volumetric_speed": [
+        "8"
+    ],
+    "filament_retraction_length": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "PLA-Silk(Qidi X-Plus 4-Orca-TINMORRY)"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "65"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "65"
+    ],
+    "inherits": "Qidi Generic PLA @Qidi X-Plus 4 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "PLA-Silk(Qidi X-Plus 4-Orca-TINMORRY)",
+    "nozzle_temperature": [
+        "220"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "220"
+    ],
+    "pressure_advance": [
+        "0.025"
+    ],
+    "slow_down_layer_time": [
+        "15"
+    ],
+    "version": "2.2.0.4"
+}
