@@ -1,0 +1,40 @@
+{
+    "compatible_printers": [
+        "Qidi X-Plus 4 0.4 nozzle"
+    ],
+    "fan_cooling_layer_time": [
+        "30"
+    ],
+    "fan_max_speed": [
+        "50"
+    ],
+    "fan_min_speed": [
+        "20"
+    ],
+    "filament_flow_ratio": [
+        "0.96"
+    ],
+    "filament_retraction_length": [
+        "1.1"
+    ],
+    "filament_settings_id": [
+        "ASA(Qidi plus4-Orca-TINMORRY)"
+    ],
+    "from": "User",
+    "hot_plate_temp_initial_layer": [
+        "100"
+    ],
+    "inherits": "Generic ASA @System",
+    "is_custom_defined": "0",
+    "name": "ASA(Qidi plus4-Orca-TINMORRY)",
+    "nozzle_temperature": [
+        "265"
+    ],
+    "slow_down_layer_time": [
+        "10"
+    ],
+    "slow_down_min_speed": [
+        "20"
+    ],
+    "version": "2.3.0.3"
+}
