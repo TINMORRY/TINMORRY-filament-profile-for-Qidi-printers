@@ -1,0 +1,46 @@
+{
+    "compatible_printers": [
+        "Qidi X-Plus 4 0.4 nozzle"
+    ],
+    "fan_cooling_layer_time": [
+        "5"
+    ],
+    "fan_max_speed": [
+        "35"
+    ],
+    "filament_flow_ratio": [
+        "0.96"
+    ],
+    "filament_retraction_length": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "PC-GF(Qidi X-Plus4-Orca-TINMORRY)"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "100"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "100"
+    ],
+    "inherits": "Generic PC @System",
+    "is_custom_defined": "0",
+    "name": "PC-GF(Qidi X-Plus4-Orca-TINMORRY)",
+    "nozzle_temperature": [
+        "285"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "285"
+    ],
+    "overhang_fan_speed": [
+        "50"
+    ],
+    "overhang_fan_threshold": [
+        "10%"
+    ],
+    "slow_down_min_speed": [
+        "20"
+    ],
+    "version": "2.3.0.3"
+}
