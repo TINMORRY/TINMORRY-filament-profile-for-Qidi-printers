@@ -1,0 +1,46 @@
+{
+    "fan_cooling_layer_time": [
+        "5"
+    ],
+    "fan_max_speed": [
+        "35"
+    ],
+    "filament_flow_ratio": [
+        "0.94"
+    ],
+    "filament_retraction_length": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "PC-GF(QIDI Q2-Orca-TINMORRY)"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "100"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "100"
+    ],
+    "inherits": "Generic PC @Qidi Q2 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "PC-GF(QIDI Q2-Orca-TINMORRY)",
+    "nozzle_temperature": [
+        "285"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "285"
+    ],
+    "overhang_fan_speed": [
+        "40"
+    ],
+    "overhang_fan_threshold": [
+        "10%"
+    ],
+    "pressure_advance": [
+        "0.03"
+    ],
+    "temperature_vitrification": [
+        "110"
+    ],
+    "version": "2.3.1.10"
+}
