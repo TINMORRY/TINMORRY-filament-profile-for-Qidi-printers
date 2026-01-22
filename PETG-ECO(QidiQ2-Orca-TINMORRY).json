@@ -1,0 +1,19 @@
+{
+    "filament_retraction_length": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "PETG-ECO(QidiQ2-Orca-TINMORRY)"
+    ],
+    "from": "User",
+    "inherits": "Generic PETG @Qidi Q2 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "PETG-ECO(QidiQ2-Orca-TINMORRY)",
+    "nozzle_temperature_initial_layer": [
+        "250"
+    ],
+    "pressure_advance": [
+        "0.035"
+    ],
+    "version": "2.3.1.10"
+}
