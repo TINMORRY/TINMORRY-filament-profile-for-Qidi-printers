@@ -1,0 +1,31 @@
+{
+    "enable_pressure_advance": [
+        "0"
+    ],
+    "fan_max_speed": [
+        "50"
+    ],
+    "fan_min_speed": [
+        "20"
+    ],
+    "filament_settings_id": [
+        "ABS(Qi diQ2-Orca-TINMORRY)"
+    ],
+    "from": "User",
+    "inherits": "Generic ABS @Qidi Q2 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "ABS(Qi diQ2-Orca-TINMORRY)",
+    "nozzle_temperature": [
+        "260"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "260"
+    ],
+    "nozzle_temperature_range_low": [
+        "250"
+    ],
+    "slow_down_layer_time": [
+        "8"
+    ],
+    "version": "2.3.1.10"
+}
