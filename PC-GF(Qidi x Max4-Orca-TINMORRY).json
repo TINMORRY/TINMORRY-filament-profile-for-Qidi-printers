@@ -1,0 +1,33 @@
+{
+    "fan_max_speed": [
+        "40"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_retraction_length": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "PC-GF(Qidi x Max4-Orca-TINMORRY)"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "hot_plate_temp_initial_layer": [
+        "100"
+    ],
+    "inherits": "Generic PC @Qidi X-Max 4 0.4 nozzle",
+    "name": "PC-GF(Qidi x Max4-Orca-TINMORRY)",
+    "nozzle_temperature_initial_layer": [
+        "280"
+    ],
+    "pressure_advance": [
+        "0.03"
+    ],
+    "slow_down_layer_time": [
+        "10"
+    ],
+    "version": "2.3.2.60"
+}
